@@ -1,0 +1,150 @@
+table, th, td
+{
+border: 1px solid black;
+border-collapse:collapse;
+}
+
+caption{font-size:20px}
+
+
+body{
+	background-color:#fdfcf8;
+	background-image:url(images/bg.jpg);
+	padding-right:100px;
+	padding-left:100px;
+	font-family:Arial, Helvetica, sans-serif
+	}
+	
+div{
+	margin-bottom:5px;
+	margin-up:5px;
+	}
+#title1{
+    text-align: center;
+    height:70px;
+    font-size: 2.5em;
+}
+
+#authoralldiv{
+	margin-top:20px;
+	}
+
+
+#showoverall{
+    height: 30px;
+    text-align: center;
+    background-color: #5e8cb3;
+    border: 1px solid #dadada;
+    color:white;
+    border-radius: 5px;
+    font-size: 1.5em;
+	margin-right: 10px;
+	padding:5px;
+	text-decoration:none;
+
+}
+#showindividual{
+    right: 20px;
+    height: 30px;
+    text-align: center;
+    background-color: #5e8cb3;
+    border: 1px solid #dadada;
+    color:white;
+    border-radius: 5px;
+    font-size: 1.5em;
+	margin-right: 10px;
+	padding:5px;
+	text-decoration:none;
+}
+#showauthor{
+    height: 30px;
+    text-align: center;
+    background-color: #5e8cb3;
+    border: 1px solid #dadada;
+    color:white;
+    border-radius: 5px;
+    font-size: 1.5em;
+	padding:5px;
+	text-decoration:none;
+}
+#overallalldiv{
+	margin-top:20px}
+	
+#showindividualpie{
+	    right: 20px;
+    height: 30px;
+    text-align: center;
+    background-color: #5e8cb3;
+    border: 1px solid #dadada;
+    color:white;
+    border-radius: 5px;
+    font-size: 1em;
+	margin-right: 10px;
+	padding:5px;
+	text-decoration:none;
+		margin-right:5px;
+	}
+#showindividualbar{
+	    right: 20px;
+    height: 30px;
+    text-align: center;
+    background-color: #5e8cb3;
+    border: 1px solid #dadada;
+    color:white;
+    border-radius: 5px;
+    font-size: 1em;
+	margin-right: 10px;
+	padding:5px;
+	text-decoration:none;
+		margin-right:5px;
+	}
+#showoverallbar{
+	    right: 20px;
+    height: 30px;
+    text-align: center;
+    background-color: #5e8cb3;
+    border: 1px solid #dadada;
+    color:white;
+    border-radius: 5px;
+    font-size: 1em;
+	margin-right: 10px;
+	padding:5px;
+	text-decoration:none;
+	margin-right:5px;
+	}
+#showoverallpie{
+    height: 30px;
+    text-align: center;
+    background-color: #5e8cb3;
+    border: 1px solid #dadada;
+    color:white;
+    border-radius: 5px;
+    font-size: 1em;
+	margin-right: 10px;
+	padding:5px;
+	text-decoration:none;
+	margin-right:5px;
+	}
+#overallpie{
+	margin-top:10px;
+	}
+	
+#list{
+	margin-top:20px;}
+	
+#individual{
+	margin-top:23px;
+	margin-left:10px;
+	}
+#individualbar1{
+	margin-top:20px;
+	margin-bottom:20px;
+	}
+
+#selectusers{
+	margin-left:20px;
+	}
+
+#individualbar2{
+	margin-top:20px;
+	}

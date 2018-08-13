@@ -1,0 +1,52 @@
+table, th, td
+{
+border: 1px solid black;
+}
+
+caption{font-size:20px}
+
+body{
+    background-color: lightgray;
+    font-family: Arial, "Times New Roman";
+    font-size: 100%;
+    padding-right: 150px;
+    padding-left: 150px;
+	background-image:url(images/bg.jpg)
+}
+#title1{
+    text-align: center;
+    height:70px;
+    font-size: 2.5em;
+}
+
+#loginForm{
+	background-color: white;
+	position:relative;
+	justify-content: center;
+	display: flex;
+	align-items: center;
+	top: 20px;
+}
+#submit1{
+	float:right;
+	border-radius: 3px;
+	background-color: lightgray;
+}
+#submit2{
+	border-radius: 3px;
+	background-color: lightgray;
+}
+#showRegister{
+	float:left;
+	border-radius: 3px;
+}
+#registerForm{
+	top: 20px;
+	background-color: white;
+	position:relative;
+	justify-content: center;
+	display: flex;
+	align-items: center;
+}
+.warnings{
+	color: red;}
